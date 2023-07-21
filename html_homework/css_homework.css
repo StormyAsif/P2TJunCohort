@@ -1,0 +1,36 @@
+body{
+    background-color: #182d46;
+    color: #e0e4dd;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+div{
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+    text-align: center;
+   letter-spacing: 1px;
+   line-height: 1.5;
+   padding: 10px;
+   background-color: #40a1d5;
+   width: 50%;
+   margin: 10px auto; /* Use "auto" for the left and right margins */
+}
+
+main{
+    background-color: #623CEA;
+    padding: 10px;
+    text-align: left;
+    letter-spacing: 1px;
+    line-height: 1.5;
+    width: 80%;
+    margin: 10px auto;
+    color: white;
+}
+
+h2{
+    text-align: center;
+}
