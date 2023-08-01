@@ -1,0 +1,40 @@
+/* div{
+    border: 1px solid black;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    margin: auto;
+    width: 50%;
+} */
+
+.container{
+   border-radius: 10px;
+    width: 30%;
+    margin: auto;
+    border: 1px solid black;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.container img{
+    width: 100%;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.container nav ul{
+    padding: 0%;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+.container nav ul li{
+    display: block;
+    padding: 10px 15px;
+    /* border: 1px solid black; */
+}
+
+li a{
+    text-decoration: none;
+    color: black;
+}
