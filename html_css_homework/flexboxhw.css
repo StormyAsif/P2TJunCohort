@@ -1,0 +1,63 @@
+nav ol{
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+}
+
+nav ol li{
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+nav ol li a{
+    color: black;
+    text-decoration: none;
+}
+
+.motto{
+    color: aliceblue;
+    text-align: center;
+    background-color: #333333;
+    padding: 10px;
+}
+
+.our-expertise{
+    text-align: center;
+    padding: 5px;
+    background-color: orange;
+}
+
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 60px;
+    border: 100%;
+}
+
+footer p{
+    font-size: 12px;
+}
+
+.flex-container{
+    background-color: orange;
+    display: flex;
+    justify-content:space-evenly;
+    flex-flow: row wrap;
+    padding: 100px;
+    /* flex-wrap: wrap; */
+    /* align-content: space-around; */
+    /* align-items: flex-start; */
+    /* flex-direction: row; */
+    /* flex-grow: 1;
+    flex-basis: 25%; */
+}
+
+
+img{
+    width: 220px;
+    /* height: auto; */
+    /* object-fit: cover; */
+}
+
